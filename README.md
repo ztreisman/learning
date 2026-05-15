@@ -36,7 +36,6 @@ top of the PDF lists the exact doc URLs to open at the start of the assessment.
 |------|-------------|
 | [`python_idioms.pdf`](python_idioms.pdf) | Reference sheet: idioms, patterns, doc links — **study tool only**, not for use during proctored assessments |
 | [`python_idioms.tex`](python_idioms.tex) | LaTeX source for the reference sheet |
-| [`journal.md`](journal.md) | Session journal: what was covered, bugs hit, weak spots, assessment strategy |
 | [`tutor_context.md`](tutor_context.md) | Tutor context file — use this to recreate the session |
 
 ### Fundamentals (Problems 1–10)
